@@ -1,0 +1,116 @@
+{
+  "greeting": {
+    "title": "리아의\n첫번째\n생일에\n초대합니다❤️",
+    "message": "어느덧 1년, 우리 리아의 첫번째 생일을 맞이하였습니다.\n소중한 자리에 소중한 분들을 모시고자 합니다.
+\n\n바쁘시더라도 참석해주시어\n리아를 축하해주시면 정말 감사하겠습니다.
+",
+    "host": {
+      "groom": {
+        "name": "리아",
+        "relation": "장녀",
+        "parents": [
+          {
+            "relation": "아버지",
+            "name": "강은규"
+          },
+          {
+            "relation": "어머니",
+            "name": "강보빈"
+          }
+        ]
+      },
+      "bride": {
+        "name": "",
+        "relation": "",
+        "parents": [
+          {
+            "relation": "",
+            "name": ""
+          },
+          {
+            "relation": "",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "eventDetail": "2025년 11월 18일 (토) 12:00\n메이비해피"
+  },
+  "hostInfo": [
+    {
+      "host": "",
+      "accountInfo": [
+        {
+          "name": "강은규",
+          "relation": "아빠",
+          "bank": "",
+          "account": "",
+          "kakaopayAccount": "",
+          "tossAccount": ""
+        },
+        {
+          "name": "강보빈",
+          "relation": "엄마",
+          "bank": "",
+          "account": ""
+        },
+        {
+          "name": "이엄마",
+          "relation": "어머니",
+          "bank": "농협",
+          "account": "123-45-678901"
+        }
+      ]
+    },
+    {
+      "host": "신부측",
+      "accountInfo": [
+        {
+          "name": "황네모",
+          "relation": "신부",
+          "bank": "토스뱅크",
+          "account": "1234-5678-9012",
+          "kakaopayAccount": "",
+          "tossAccount": ""
+        },
+        {
+          "name": "황아빠",
+          "relation": "아버지",
+          "bank": "농협",
+          "account": "123-45-678901"
+        },
+        {
+          "name": "이엄마",
+          "relation": "어머니",
+          "bank": "농협",
+          "account": "123-45-678901"
+        }
+      ]
+    }
+  ],
+  "mapInfo": {
+    "address1": "메이비해피",
+    "address2": "경기 화성시 영통로26번길 33 2층 202호\n0507-1385-4686",
+    "naverMap": "https://map.naver.com/p/search/%EB%A9%94%EC%9D%B4%EB%B9%84%ED%95%B4%ED%94%BC/place/2009040753?c=15.00,0,0,0,dh&placePath=/home?entry=bmp&from=map&fromPanelNum=2&timestamp=202510282230&locale=ko&svcName=map_pcv5&searchText=%EB%A9%94%EC%9D%B4%EB%B9%84%ED%95%B4%ED%94%BC",
+    "kakaoMap": "https://map.kakao.com/?urlX=515025.9999999979&urlY=1037683.9999999979&urlLevel=3&itemId=408599328&q=%EB%A9%94%EC%9D%B4%EB%B9%84%ED%95%B4%ED%94%BC%20%EB%8F%99%ED%83%84%EC%A0%90&srcid=408599328&map_type=TYPE_MAP",
+    "lat": 37.275793,
+    "lon": 127.028628
+  },
+  "emojis": [
+    "❤️",
+    "💛",
+    "💌",
+    "🥹",
+    "🥳",
+    "👰🏻‍",
+    "🤵🏻‍️",
+    "🤍",
+    "✨",
+    "💍",
+    "💒",
+    "💕",
+    "😍",
+    "🔔",
+    "💘"
+  ]
+}
