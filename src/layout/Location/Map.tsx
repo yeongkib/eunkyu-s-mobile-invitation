@@ -1,26 +1,24 @@
-import data from 'data.json';
-import { Container as MapDiv, Marker, NaverMap, useNavermaps } from 'react-naver-maps';
+import MapImage from '@/assets/images/map.jpg';
 
 const Map = () => {
-  const { lat, lon } = data.mapInfo;
-  const navermaps = useNavermaps();
-
   return (
-    <MapDiv
+    <div
       style={{
         width: '100%',
         height: '300px',
+        overflow: 'hidden',
+        borderRadius: '8px',
       }}>
-      <NaverMap
-        defaultCenter={new navermaps.LatLng(lat, lon)}
-        defaultZoom={17}
-        draggable={false}
-        pinchZoom={false}
-        scrollWheel={false}
-        keyboardShortcuts={false}>
-        <Marker defaultPosition={new navermaps.LatLng(lat, lon)} />
-      </NaverMap>
-    </MapDiv>
+      <img
+        src={MapImage}
+        alt="Map location"
+        style={{
+          width: '100%',
+          height: '100%',
+          objectFit: 'cover',
+        }}
+      />
+    </div>
   );
 };
 
